@@ -39,5 +39,6 @@ Os slides e livro do curso estão disponíveis neste [link](https://engsoftmoder
 
 * 10 pontos
 * Uma questão/aula
+* QUestões serão formuladas em um Google Docs (a ser compartilhado com os alunos)
 * Correção pelo professor no final da aula de 2a feira
 
