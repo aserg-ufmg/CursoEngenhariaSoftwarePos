@@ -14,7 +14,7 @@ Os slides e livro do curso estão disponíveis neste [link](https://engsoftmoder
 * Prova 2 (30 pontos)
 * Prova 2a chamada: apenas para alunos que perderam alguma prova (não precisa justificar); toda matéria
 
-# Seminário:
+# Seminário
 
 * 20 pontos
 * 60 minutos
