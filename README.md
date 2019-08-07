@@ -33,10 +33,11 @@ Os slides e livro do curso estão disponíveis neste [link](https://engsoftmoder
 
 * 15 pontos
 * Artigos serão ainda definidos pelo professor
-* Apresentação no final de cada aula
+* Apresentação no final da aula de 4a feira
 
 # Elaboração de Exercícios de Múltipla Escolha
 
 * 10 pontos
 * Uma questão/aula
+* Correção pelo professor no final da aula de 2a feira
 
