@@ -1,4 +1,4 @@
-# Curso de Engenharia de Software Moderna
+# Engenharia de Software Moderna
 
 * Repositório do Curso de Engenharia de Software Moderna (60 horas)
 * PPGCC/DCC/UFMG
