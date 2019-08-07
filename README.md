@@ -18,7 +18,7 @@ Os slides e livro do curso estão disponíveis neste [link](https://engsoftmoder
 
 * 20 pontos
 * 60 minutos
-* Tratando de um livro (ou de alguns capítulos de um livro):
+* Tratando de um livro (ou de alguns capítulos de um livro). Sugestões:
   * Peopleware: Productive Projects and Teams
   * Sprint. O Método Usado no Google Para Testar e Aplicar Novas Ideias em Apenas Cinco Dias
   * Design thinking
@@ -28,6 +28,7 @@ Os slides e livro do curso estão disponíveis neste [link](https://engsoftmoder
   * Working Effectively with Legacy Code
   * Clean Code: A Handbook of Agile Software Craftsmanship
   * Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation 
+  * outro livro: sugerido pelo aluno e aprovado pelo professsor
 
 # Apresentação Resumida de Artigos
 
