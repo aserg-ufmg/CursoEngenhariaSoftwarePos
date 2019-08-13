@@ -37,6 +37,7 @@ Os slides e livro do curso estão disponíveis neste [link](https://engsoftmoder
 * Apresentação no final da aula de 4a feira
 * Sugestões de artigos:
   * Agile Team Perceptions of Productivity Factors, [pdf](https://www.ime.usp.br/~kon/papers/Agile11.pdf) 
+  * The Benefits of Controlled Experimentation at Scale
   
 # Elaboração de Exercícios de Múltipla Escolha
 
