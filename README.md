@@ -20,7 +20,7 @@ Os slides e livro do curso estão disponíveis neste [link](https://engsoftmoder
 * 60 minutos
 * Tratando de um livro (ou de alguns capítulos de um livro). Sugestões:
   * Peopleware: Productive Projects and Teams
-  * Sprint. O Método Usado no Google Para Testar e Aplicar Novas Ideias em Apenas Cinco Dias
+  * Mauricio - Sprint. O Método Usado no Google Para Testar e Aplicar Novas Ideias em Apenas Cinco Dias
   * Design thinking
   * A Philosophy of Software Design
   * The Pragmatic Programmer
