@@ -22,7 +22,7 @@ Os slides e livro do curso estão disponíveis neste [link](https://engsoftmoder
   * Peopleware: Productive Projects and Teams
   * Mauricio - Sprint. O Método Usado no Google Para Testar e Aplicar Novas Ideias em Apenas Cinco Dias
   * Design thinking
-  * A Philosophy of Software Design
+  * Ulisses - A Philosophy of Software Design
   * The Pragmatic Programmer
   * Domain Driven Design
   * Working Effectively with Legacy Code
@@ -36,7 +36,7 @@ Os slides e livro do curso estão disponíveis neste [link](https://engsoftmoder
 * Artigos serão ainda definidos pelo professor
 * Apresentação no final da aula de 4a feira
 * Sugestões de artigos:
-  * Agile Team Perceptions of Productivity Factors, [pdf](https://www.ime.usp.br/~kon/papers/Agile11.pdf) 
+  * Ulisses - Agile Team Perceptions of Productivity Factors, [pdf](https://www.ime.usp.br/~kon/papers/Agile11.pdf) 
   * The Benefits of Controlled Experimentation at Scale
   
 # Elaboração de Exercícios de Múltipla Escolha
