@@ -20,11 +20,12 @@ Os slides e livro do curso estão disponíveis neste [link](https://engsoftmoder
 * 60 minutos
 * Tratando de um livro (ou de alguns capítulos de um livro). Sugestões:
   * Peopleware: Productive Projects and Teams
-  * Mauricio - Sprint. O Método Usado no Google Para Testar e Aplicar Novas Ideias em Apenas Cinco Dias
-  * Fabio - Design thinking
-  * Ulisses - A Philosophy of Software Design
+  * **Mauricio** - Sprint. O Método Usado no Google Para Testar e Aplicar Novas Ideias em Apenas Cinco Dias
+  * **Fabio** - Design thinking
+  * **Ulisses** - A Philosophy of Software Design
   * Lean Inception (Paulo Carolli)
   * Métricas Ágeis (Raphael Donaire Albino)
+  * Project to Product: How to Survive and Thrive in the Age of Digital Disruption with the Flow Framework
   * outro livro: sugerido pelo aluno e aprovado pelo professsor
 
 # Apresentação Resumida de Artigos
