@@ -21,13 +21,10 @@ Os slides e livro do curso estão disponíveis neste [link](https://engsoftmoder
 * Tratando de um livro (ou de alguns capítulos de um livro). Sugestões:
   * Peopleware: Productive Projects and Teams
   * Mauricio - Sprint. O Método Usado no Google Para Testar e Aplicar Novas Ideias em Apenas Cinco Dias
-  * Design thinking
+  * Fabio - Design thinking
   * Ulisses - A Philosophy of Software Design
-  * The Pragmatic Programmer
-  * Domain Driven Design
-  * Working Effectively with Legacy Code
-  * Clean Code: A Handbook of Agile Software Craftsmanship
-  * Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation 
+  * Lean Inception (Paulo Carolli)
+  * Métricas Ágeis (Raphael Donaire Albino)
   * outro livro: sugerido pelo aluno e aprovado pelo professsor
 
 # Apresentação Resumida de Artigos
