@@ -36,7 +36,7 @@ Os slides e livro do curso estão disponíveis neste [link](https://engsoftmoder
 * Sugestões de artigos:
   * 26/08 - Ulisses - Agile Team Perceptions of Productivity Factors, [pdf](https://www.ime.usp.br/~kon/papers/Agile11.pdf) 
   * 02/09 - Thiago - The Benefits of Controlled Experimentation at Scale
-  * 	Practitioners' Views on Good Software Testing Practices
+  * Practitioners' Views on Good Software Testing Practices
   
 # Elaboração de Exercícios de Múltipla Escolha
 
