@@ -43,4 +43,7 @@ Os slides e livro do curso estão disponíveis neste [link](https://engsoftmoder
 * Uma questão/aula
 * QUestões serão formuladas em um Google Docs (a ser compartilhado com os alunos)
 * Correção pelo professor no final da aula de 2a feira
-
+* Google Forms:
+  * [Cap. 1](https://docs.google.com/forms/d/1_CJ6SRll4bzB-vOiMUnc4mYEpK8qtTtVj4wA3uCTspE/edit?ts=5d517cce) (1 questão) 
+  * [Cap. 2](https://docs.google.com/forms/d/1n5h5-ofFG6t3bTCtg3yGF7ZyR87BUpDzH2cZdYBkRjU/edit) (3 questões)
+  * [Cap. 3](https://docs.google.com/forms/d/1pYlfi4iXN0_Jz_jswtF-E0ob6SiVVv9kbDTdvel0L-g/edit) (1 questão)
