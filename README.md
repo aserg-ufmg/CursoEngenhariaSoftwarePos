@@ -20,7 +20,7 @@ Os slides e livro do curso estão disponíveis neste [link](https://engsoftmoder
 * Tratando de um livro (ou de alguns capítulos de um livro). Sugestões:
   * Peopleware: Productive Projects and Teams
   * 11/09 - Mauricio - Design Sprint
-  * 18/09 Davi - Lean Inception (Paulo Carolli)
+  * 18/09 - Davi - Lean Inception (Paulo Carolli)
   * 25/09 - Fabio - Design Thinking
   * ??/?? - Ulisses - A Philosophy of Software Design
   * Métricas Ágeis (Raphael Donaire Albino)
