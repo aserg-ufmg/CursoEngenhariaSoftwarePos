@@ -36,8 +36,8 @@ Os slides e livro do curso estão disponíveis neste [link](https://engsoftmoder
 * Sugestões de artigos:
   * 26/08 - Ulisses - Agile Team Perceptions of Productivity Factors, [pdf](https://www.ime.usp.br/~kon/papers/Agile11.pdf) 
   * 02/09 - Thiago - The Benefits of Controlled Experimentation at Scale
+  * 09/09 - Fabio - We Don’t Need Another Hero? The Impact of "Heroes" on Software Development
   * Practitioners' Views on Good Software Testing Practices
-  * We Don’t Need Another Hero? The Impact of "Heroes" on Software Development
   * Continuous practices and devops: beyond the buzz, what does it all mean?
   * The Product Backlog [pdf](https://2019.icse-conferences.org/details/icse-2019-Technical-Papers/26/The-Product-Backlog)
   
