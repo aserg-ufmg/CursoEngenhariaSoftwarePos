@@ -22,7 +22,7 @@ Os slides e livro do curso estão disponíveis neste [link](https://engsoftmoder
   * 11/09 - Mauricio - Design Sprint
   * 18/09 - Davi - Lean Inception (Paulo Carolli)
   * 25/09 - Fabio - Design Thinking
-  * 02/10 - Thiago * Project to Product: How to Survive and Thrive in the Age of Digital Disruption with the Flow Framework
+  * 02/10 - Thiago - Project to Product: How to Survive and Thrive in the Age of Digital Disruption with the Flow Framework
   * ??/?? - Ulisses - A Philosophy of Software Design
   * Métricas Ágeis (Raphael Donaire Albino)
   * Shape Up: Stop Running in Circles and Ship Work that Matters, [pdf](https://basecamp.com/shapeup/shape-up.pdf)
