@@ -40,7 +40,7 @@ Os slides e livro do curso estão disponíveis neste [link](https://engsoftmoder
   * 23/09 - Leandro - The Product Backlog [pdf](https://2019.icse-conferences.org/details/icse-2019-Technical-Papers/26/The-Product-Backlog)
   * 30/09 - Fabio - We Don’t Need Another Hero? The Impact of "Heroes" on Software Development
   * ??/?? - Felipe - Continuous practices and devops: beyond the buzz, what does it all mean?
-  * 14/10 - Practitioners' Views on Good Software Testing Practices
+  * 21/10 - Practitioners' Views on Good Software Testing Practices
   * 
   
 # Elaboração de Exercícios de Múltipla Escolha
