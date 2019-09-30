@@ -21,11 +21,12 @@ Os slides e livro do curso estão disponíveis neste [link](https://engsoftmoder
   * Peopleware: Productive Projects and Teams
   * 11/09 - Mauricio - Design Sprint
   * 18/09 - Davi - Lean Inception (Paulo Carolli)
-  * 25/09 - Fabio - Design Thinking
   * 02/10 - Thiago - Project to Product: How to Survive and Thrive in the Age of Digital Disruption with the Flow Framework
   * 09/10 - Leandro - Threats Modelling
   * 16/10 - Felipe - Métricas Ágeis (Raphael Donaire Albino)
   * 23/10 - Ulisses - A Philosophy of Software Design
+  * 30/10 - Fabio - Design Thinking
+ 
   * Shape Up: Stop Running in Circles and Ship Work that Matters, [pdf](https://basecamp.com/shapeup/shape-up.pdf)
   
 # Apresentação Resumida de Artigos
@@ -36,10 +37,11 @@ Os slides e livro do curso estão disponíveis neste [link](https://engsoftmoder
 * Sugestões de artigos:
   * 26/08 - Ulisses - Agile Team Perceptions of Productivity Factors, [pdf](https://www.ime.usp.br/~kon/papers/Agile11.pdf) 
   * 02/09 - Thiago - The Benefits of Controlled Experimentation at Scale
-  * 09/09 - Fabio - We Don’t Need Another Hero? The Impact of "Heroes" on Software Development
   * 23/09 - Leandro - The Product Backlog [pdf](https://2019.icse-conferences.org/details/icse-2019-Technical-Papers/26/The-Product-Backlog)
+  * 30/09 - Fabio - We Don’t Need Another Hero? The Impact of "Heroes" on Software Development
   * ??/?? - Felipe - Continuous practices and devops: beyond the buzz, what does it all mean?
-  * Practitioners' Views on Good Software Testing Practices
+  * 14/10 - Practitioners' Views on Good Software Testing Practices
+  * 
   
 # Elaboração de Exercícios de Múltipla Escolha
 
