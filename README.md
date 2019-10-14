@@ -10,7 +10,7 @@ Os slides e livro do curso estão disponíveis neste [link](https://engsoftmoder
 # Provas
 
 * Prova 1 (25 pontos) - 16/09 - Matéria: caps. 1 a 4
-* Prova 2 (30 pontos)
+* Prova 2 (30 pontos) - 18/11 - Matéria: caps. 5 a 7 - mais slides de testes, refactoring e qualidade
 * Prova 2a chamada: apenas para alunos que perderam alguma prova (não precisa justificar); toda matéria
 
 # Seminário
