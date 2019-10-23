@@ -23,7 +23,6 @@ Os slides e livro do curso estão disponíveis neste [link](https://engsoftmoder
   * 18/09 - Davi - Lean Inception (Paulo Carolli)
   * 02/10 - Thiago - Project to Product: How to Survive and Thrive in the Age of Digital Disruption with the Flow Framework
   * 09/10 - Leandro - Threats Modelling
-  * 16/10 - Felipe - Métricas Ágeis (Raphael Donaire Albino)
   * 23/10 - Ulisses - A Philosophy of Software Design
   * 30/10 - Fabio - Design Thinking
  
@@ -39,9 +38,8 @@ Os slides e livro do curso estão disponíveis neste [link](https://engsoftmoder
   * 02/09 - Thiago - The Benefits of Controlled Experimentation at Scale
   * 23/09 - Leandro - The Product Backlog [pdf](https://2019.icse-conferences.org/details/icse-2019-Technical-Papers/26/The-Product-Backlog)
   * 30/09 - Fabio - We Don’t Need Another Hero? The Impact of "Heroes" on Software Development
-  * ??/?? - Felipe - Continuous practices and devops: beyond the buzz, what does it all mean?
-  * 21/10 - Practitioners' Views on Good Software Testing Practices
-  * 
+  * 21/10 - Mauricio - Practitioners' Views on Good Software Testing Practices
+  * 30/10 - Davi -  
   
 # Elaboração de Exercícios de Múltipla Escolha
 
